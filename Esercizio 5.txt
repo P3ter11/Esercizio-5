@@ -1,0 +1,5 @@
+L'algoritmo è una serie finita di operazioni che permette di risolvere un problema.
+Una variabile è paragonabile ad un contenitore: inizialmente è vuoto (dichiarazione), si può riempire (inizializzazione), 
+si può cambiare il contenuto al suo interno (modifica).
+La differenza tra undefined e null: undefined vuol dire che la variabile non è assegnata.
+null vuol dire che la variabile esiste ma non ha un valore
